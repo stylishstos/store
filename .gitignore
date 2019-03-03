@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+node_modules/
+.build/
+coverage/
+code/
+npm-debug.log
+test-results.xml
+tmp-package.json
+yarn.lock
